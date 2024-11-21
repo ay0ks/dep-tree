@@ -3,6 +3,7 @@ name = "dep-tree"
 description = "Dependency tree structure for building dependency requirements"
 authors = ["Dimitriy \"ay0ks\" <ay0o0ks000@gmail.com>"]
 version = "0.1.0"
+repository = "https://github.com/ay0ks/dep-tree"
 license = "MIT"
 readme = "README.md"
 edition = "2021"
